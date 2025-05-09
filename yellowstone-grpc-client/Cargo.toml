@@ -19,9 +19,9 @@ version = "0.12.1"
 [dependencies.tonic-health]
 version = "0.12.1"
 
-[dependencies.yellowstone-grpc-proto]
-git = "ssh://git@github.com/manudeobs/yellowstone-grpc-proto.git"
-branch = "master"
+ [dependencies.yellowstone-grpc-proto]
+  git = "https://github.com/YvesxDev/yellowstonewin"
+  branch = "main"
 
 
 [dev-dependencies.tokio]
